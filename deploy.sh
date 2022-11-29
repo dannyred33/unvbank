@@ -1,1 +1,1 @@
-deploying servers using this script
+adding deploying servers using this script
