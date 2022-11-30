@@ -1,1 +1,1 @@
-This contains string related java functions
+This contains string related functions
